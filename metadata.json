@@ -1,0 +1,6 @@
+{
+  "name": "Uhumuliza",
+  "description": "A modern corporate advisory and research firm website with clean aesthetics and improved user navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
