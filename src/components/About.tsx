@@ -18,14 +18,14 @@ export default function About() {
           <div className="lg:col-span-6 relative h-[700px] hidden lg:block">
             <motion.div style={{ y: yImage1 }} className="absolute top-0 left-0 w-[80%] h-[70%] z-10 overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1544365516-e4d7543cf497?q=80&w=2000&auto=format&fit=crop" 
+                src="/images/hope-and-light.png" 
                 alt="Hope and light" 
                 className="w-full h-full object-cover grayscale opacity-90 transition-all duration-700 hover:grayscale-0 hover:opacity-100"
               />
             </motion.div>
             <motion.div style={{ y: yImage2 }} className="absolute bottom-10 right-0 w-[60%] h-[50%] z-20 overflow-hidden border-8 border-primary-50">
               <img 
-                src="https://images.unsplash.com/photo-1470115636402-59fdb81121d5?q=80&w=2070&auto=format&fit=crop" 
+                src="/images/community-and-faith.png" 
                 alt="Community and faith" 
                 className="w-full h-full object-cover transition-transform duration-1000 hover:scale-105"
               />

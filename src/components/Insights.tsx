@@ -7,19 +7,19 @@ export default function Insights() {
       category: 'The Book',
       title: 'Under His Mighty Hand: Overcoming from the Rwandan Genocide',
       date: 'Available Now',
-      image: 'https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?q=80&w=2070&auto=format&fit=crop',
+      image: '/images/book-image.png',
     },
     {
       category: 'Media',
       title: 'Immaculee Hedden talks to Carl Wilkens',
       date: 'Recent Interview',
-      image: 'https://images.unsplash.com/photo-1563729784478-eb34bd0970b5?q=80&w=2070&auto=format&fit=crop',
+      image: '/images/media-interview.png',
     },
     {
       category: 'Counselling',
       title: 'Finding Hope: A Guide to Integrative Inner Healing',
       date: 'Article',
-      image: 'https://images.unsplash.com/photo-1573497620053-ea5300f94f21?q=80&w=2070&auto=format&fit=crop',
+      image: '/images/counselling-session.png',
     }
   ];
 

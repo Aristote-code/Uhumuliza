@@ -13,7 +13,7 @@ export default function Impact() {
     <section id="partnerships" className="relative py-32 md:py-40 bg-primary-950 text-white overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=2070&auto=format&fit=crop" 
+          src="/images/hands-helping.png" 
           alt="Hands helping" 
           className="w-full h-full object-cover opacity-10 mix-blend-luminosity"
         />

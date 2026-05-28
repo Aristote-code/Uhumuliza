@@ -10,7 +10,7 @@ export default function Hero() {
           initial={{ scale: 1.1 }}
           animate={{ scale: 1 }}
           transition={{ duration: 2, ease: "easeOut" }}
-          src="https://images.unsplash.com/photo-1499209974431-9dddcece7f88?q=80&w=2070&auto=format&fit=crop"
+          src="/images/hero-background.png"
           alt="Peaceful landscape representing hope and comfort"
           className="w-full h-full object-cover opacity-30 mix-blend-luminosity"
         />
